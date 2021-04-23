@@ -9,6 +9,6 @@ def bubblesort(list):
                 list[idx+1] = temp
 
 
-list = [19,2,31,45,6,11,121,27,800,9870,67895,1]
+list = [19,2,31,45,6,11,121,27,800,9870,67895,1,76]
 bubblesort(list)
 print(list)
